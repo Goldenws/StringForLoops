@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.exe
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.deps.json
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.dll
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\bin\Debug\netcoreapp3.1\StringLength.pdb
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.dll
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.pdb
+C:\Users\Roland Strod\source\repos\StringForLoops\StringLength\obj\Debug\netcoreapp3.1\StringLength.genruntimeconfig.cache

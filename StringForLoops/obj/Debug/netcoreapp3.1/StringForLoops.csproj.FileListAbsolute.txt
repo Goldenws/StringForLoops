@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\bin\Debug\netcoreapp3.1\StringForLoops.exe
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\bin\Debug\netcoreapp3.1\StringForLoops.deps.json
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\bin\Debug\netcoreapp3.1\StringForLoops.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\bin\Debug\netcoreapp3.1\StringForLoops.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\bin\Debug\netcoreapp3.1\StringForLoops.dll
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\bin\Debug\netcoreapp3.1\StringForLoops.pdb
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\obj\Debug\netcoreapp3.1\StringForLoops.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\obj\Debug\netcoreapp3.1\StringForLoops.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\obj\Debug\netcoreapp3.1\StringForLoops.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\obj\Debug\netcoreapp3.1\StringForLoops.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\obj\Debug\netcoreapp3.1\StringForLoops.dll
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\obj\Debug\netcoreapp3.1\StringForLoops.pdb
+C:\Users\Roland Strod\source\repos\StringForLoops\StringForLoops\obj\Debug\netcoreapp3.1\StringForLoops.genruntimeconfig.cache

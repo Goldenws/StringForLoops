@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.exe
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.deps.json
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.dll
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\bin\Debug\netcoreapp3.1\LongestName.pdb
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.dll
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.pdb
+C:\Users\Roland Strod\source\repos\StringForLoops\LongestName\obj\Debug\netcoreapp3.1\LongestName.genruntimeconfig.cache
